@@ -1,0 +1,32 @@
+.nav-bg
+{
+  background-image: url("images/concrete_seamless.png")
+}
+body
+{
+  background-image:url("https://i.ytimg.com/vi/tbXSooGy_TM/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.row-bg
+{
+  background-color:white;
+  width:auto;
+}
+.copyright-bg
+{
+  background-color:grey;
+}
+.copyright-bg p
+{
+  color: white;
+}
+/* .jumbotron
+{
+  opacity:0.6 !important;
+  padding: 2rem 1rem !important;
+  margin-bottom: 2rem;
+  background-image:url("https://t3.ftcdn.net/jpg/01/10/01/18/240_F_110011811_X0mqcBFjZmgj2XRZ49Od90J3guAhgZN3.jpg");
+  border-radius: .6rem;
+  z-index: -1;
+} */
